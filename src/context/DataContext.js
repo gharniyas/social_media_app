@@ -1,4 +1,4 @@
-import { Children, createContext, useEffect, useState } from "react";
+import {  createContext, useEffect, useState } from "react";
 import useWindowSize from "../hooks/useWindowSize";
 import api from "../api/posts";
 import { format } from "date-fns";
